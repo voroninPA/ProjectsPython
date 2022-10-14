@@ -13,4 +13,4 @@ if(numb==1):
     print("you lose")
 else:
     print("you win")
-print("HI")
+print("HI1")
